@@ -1,0 +1,31 @@
+// import React, { useEffect, useState } from "react";
+// import { JupiterToken } from '../models/tokens';
+
+
+// const JupiterApp = () => {
+    // const [shdwToken, setShdwToken] = useState<JupiterToken | undefined>();
+    // const [address, setAddress] = useState<anchor.web3.PublicKey | undefined>();
+
+    // useEffect(() => {
+    //     // Fetch token list from Jupiter API
+    //     fetch(TOKEN_LIST_URL[ENV])
+    //       .then(response => response.json())
+    //       .then(result => setTokens(result))
+    // }, [])
+
+    // return (
+    //   <>
+    //     <div style={{ fontWeight: '600', fontSize: 16, marginTop: 24 }}>
+    //       Hook example
+    //     </div>
+    //     <div>Number of tokens:</div>
+    //     <div>Number of input tokens</div>
+    //     <div>Possible number of routes:</div>
+    //     <div>
+    //       Best quote:
+    //     </div>
+    //   </>
+    // );
+// }
+
+// export default JupiterApp;
